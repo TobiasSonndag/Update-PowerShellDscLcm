@@ -13,3 +13,5 @@ pwsh.exe "Set-PowerShellDscLcm.ps1"
 ```
 For detection use custom script and select Detect.ps1.
 
+# Disclaimer
+Use it carefully and on your own responsibility. I am open to suggestions. Maybe this approach is not the best.
